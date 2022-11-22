@@ -12,7 +12,7 @@ Link to repository: https://github.com/Samualjensen/work-day-scheduler
 
 ## Installation
 
-No intallation needed, simply use the url provoded above and begin your scheduling adventure.
+No intallation needed, simply use the url provoded above and let your scheduling adventure begin.
 
 ## Usage
 
@@ -22,7 +22,7 @@ When the webpage is deployed it can be viewed normally on a standard desktop bro
 
 ## Credits 
 
-Starter code was provided by Xandromus through Github and given to us though the Bootcamp spot. Some additional guidence and help was provided by the #askbcs learning assistant through slack.
+Starter code was provided by Georgeyoo through Github and given to us though the Bootcamp spot. 
 
 
 ## License
