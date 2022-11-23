@@ -16,7 +16,7 @@ No intallation needed, simply use the url provoded above and let your scheduling
 
 ## Usage
 
-When the webpage is deployed it can be viewed normally on a standard desktop browser. It has not yet been modified to fit a smaller screen yet.
+When the webpage is deployed it can be viewed normally on a standard desktop browser. It has not been modified to fit a smaller screen.
 
 ![img](./Assets/images/work-day-scheduler-screenshot.png)
 
